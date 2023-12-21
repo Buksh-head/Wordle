@@ -1,2 +1,2 @@
-# Wordle
-Text Based Wordle game Python
+# Wordle - Python
+Implementation of a modified text-based version of Wordle.
